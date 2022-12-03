@@ -3,7 +3,6 @@ requests
 requests[socks]
 requests_toolbelt
 user_agent
-youtube_dl
 mega
 mega.py
 python-worker
