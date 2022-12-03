@@ -18,7 +18,7 @@ import time
 import animate
 
 from repouploader import RepoUploader,RepoUploaderResult
-
+from pydownloader.downloader import Downloader
 import shorturl
 import xdlink
 
